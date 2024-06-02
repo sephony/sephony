@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there%2C+this+is+sephony." alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sephony&show_icons=true&theme=algolia" alt="sephony's GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sephony&theme=algolia" alt="sephony's GitHub Stats" />
+</p>
 
 <!--
 **sephony/sephony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +24,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sephony&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sephony&theme=algolia)](https://git.io/streak-stats)
+<!--
+用到的网站：
+https://readme-typing-svg.demolab.com/demo/
+https://github-readme-streak-stats.herokuapp.com/demo/
+https://github-readme-tech-stack.vercel.app/
+-->
